@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3002
+
+With this plugin, Shift-Enter in normal mode opens a definition of identifier under cursor in a new tab. Uses tag files (see :help tags).
+
+See comments for simpler replacement. Thanks for comment goes to an unknown well-doer! ;-)
